@@ -1,4 +1,4 @@
-package PascalTriangle;
+package pascalTriangle;
 
 import java.util.Scanner;
 

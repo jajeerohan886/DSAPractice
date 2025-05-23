@@ -1,4 +1,4 @@
-package Parenthesis;
+package parenthesis;
 
 public class SameParenthesis {
 

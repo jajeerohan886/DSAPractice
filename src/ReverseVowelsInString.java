@@ -30,7 +30,7 @@ public class ReverseVowelsInString {
     }
 
     public static void main(String[] args) {
-        String input = "aeiouqwerty";
+        String input = "aeiou";
         String output = reverseVowels(input);
         System.out.println("Reversed Vowels: " + output); // Output: holle
     }

@@ -1,4 +1,4 @@
-package Parenthesis;
+package parenthesis;
 
 import java.util.Stack;
 
