@@ -10,7 +10,7 @@ public class LongestPalindromicSubstring {
 
 		for(int i=1;i<s.length();i++)  {
 
-			// for odd string length
+			// for odd length string which is a palindrome
 			int low = i;
 			int high = i;
 
@@ -28,7 +28,7 @@ public class LongestPalindromicSubstring {
 				LPS = palindrome;
 			}
 
-			//for even string length
+			//for even length string which is a palindrome
 			low = i-1;
 			high = i;
 
