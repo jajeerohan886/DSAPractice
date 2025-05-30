@@ -26,3 +26,19 @@ RotateMatrixBy90Degree
 Find Distance Between Words
 Kadane's Algorithm
 Robot Directions
+
+28/05/2025
+----------
+Longest Consecutive Sequence
+Remove Duplicates from an unsorted array
+Longest Subarray length of sum k
+Total Number of subarrays of sum k
+
+29/05/2025
+----------
+Binary Search - Lower bound & Upper bound
+Insert Position Using Binary Search
+Palindrome and Reverse of a number
+FizzBuzz
+RomanToInteger
+StreamsApi
